@@ -17,3 +17,9 @@ _{Bahama Mama is a Website advertising a private island resort leaning to persua
 
 _{HTML}_
 _{CSS}_
+
+##License
+
+_{Copyright 2017 Aaron Ross and Julia Sheremet}
+https://ashmortar.github.io/travel-site-project/travel.html
+https://juliajessica72.github.io/travel-bahamas/

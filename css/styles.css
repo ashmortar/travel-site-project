@@ -1,0 +1,23 @@
+body {
+  font-family: fantasy;
+  color: gray;
+}
+
+h1 {
+  font-weight: bolder;
+  font-size: 50px;
+  color: gold;
+  text-align: center;
+}
+ h2 {
+   color: black;
+ }
+
+h3 {
+  color: gold;
+}
+
+em {
+  font-weight: bolder;
+  color: darkgreen;
+}
